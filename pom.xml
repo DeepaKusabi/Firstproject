@@ -16,4 +16,13 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <build>
+        <plugins>
+            <plugin>
+                <groupId>com.demo.app</groupId>
+                <artifactId>demo-boot-maven-plugin</artifactId>
+            </plugin>
+        </plugins>
+    </build>
+  
 </project>
