@@ -19,8 +19,8 @@
   <build>
         <plugins>
             <plugin>
-                <groupId>com.demo.app</groupId>
-                <artifactId>demo-boot-maven-plugin</artifactId>
+                <groupId>com.adamstraining.app</groupId>
+                <artifactId>adamstraining-boot-maven-plugin</artifactId>
             </plugin>
         </plugins>
     </build>
